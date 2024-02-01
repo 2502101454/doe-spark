@@ -1,0 +1,3 @@
+我们的handler序列中，可以添加很多的Inbound、OutBound：
+1.对于读取数据时，正序走Inbound；
+2.对于输出数据时，倒叙走OutBound;
